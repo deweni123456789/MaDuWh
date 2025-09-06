@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 class Config:
-    BOT_TOKEN = os.getenv('7896090354:AAG16U8-FaR2cMxzROcTvOAwePaBmkcG-QU')
+    BOT_TOKEN = os.getenv('7896090354:AAFFPhNJUEprSGGcblgzgExkjVsisXbOFww')
     DEVELOPER_USERNAME = "deweni2"
     MAX_FILE_SIZE = 50 * 1024 * 1024  # 50MB
     DOWNLOAD_PATH = "downloads"
